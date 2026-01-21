@@ -1,0 +1,13 @@
+LimaCharlie-SOC-Case-Study/
+│
+├── README.md
+├── Incident-Report/
+│   └── Command-Interpreter-Incident.pdf
+├── Detection-Rules/
+│   └── powershell-detection-rule.md
+├── Screenshots/
+│   ├── alert.png
+│   ├── timeline.png
+│   └── process-tree.png
+└── Lessons-Learned/
+    └── soc-findings.md
