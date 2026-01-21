@@ -1,0 +1,15 @@
+# PowerShell Detection Rule
+
+## Purpose
+Detect execution of command-line interpreters commonly abused in attacks.
+
+## Logic
+Trigger alert when:
+- powershell.exe
+- cmd.exe
+
+## Response
+Alert-only response (no automated remediation).
+
+## Notes
+Rule successfully generated detection alerts during testing.
